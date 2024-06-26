@@ -1,0 +1,9 @@
+Figure Legend:
+
+full.pdf
+
+Vertical green dotted line is <FLC>
+Light green slab : <FLC> +/- std
+Blue line : Free energy curve
+Orange line : running std (sigma(FLC))
+Orange slab : 2*sigmaMax

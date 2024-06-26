@@ -1,0 +1,4 @@
+# ../src/avgVarFLC.py --size avgVarFLC/3888 --outputFile True --dat_file ../data/FLC/3888.dat
+# # column 0: mean
+# # coulmn1 : std
+5.215588766900317585e-01	1.263347426489353498e-01
